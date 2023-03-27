@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm @dkargatzis 👋
 
-<!--
-**dkargatzis/dkargatzis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 💬 Ask me about
 
-Here are some ideas to get you started:
+- Cloud Infrastructure as code (IaC) - both AWS and GCP
+- CI/CD - Continuous integration and continuous delivery
+- Resource Coordinators / Schedulers (Kubernetes and YARN)
+- Kubernetes Resources (workloads, services, storage classes, secrets, etc.)
+- Helm Charts in Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### 📫 How to reach me 
+
+- Email  [dimitris@waresatck.io](mailto:dimitris@warestack.io?subject=[GitHub]%20Source%20Han%20Sans)
+- [LinkedIn Profile](https://www.linkedin.com/in/dimitris-kargatzis/)

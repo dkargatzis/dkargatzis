@@ -11,5 +11,5 @@
 
 #### 📫 How to reach me 
 
-- Email  [dimitris@waresatck.io](mailto:dimitris@warestack.io?subject=[GitHub]%20Source%20Han%20Sans)
+- Email  [dimitris.kargatzis@waresatck.com](mailto:dimitris.kargatzis@warestack.com?subject=[GitHub]%20Source%20Han%20Sans)
 - [LinkedIn Profile](https://www.linkedin.com/in/dimitris-kargatzis/)

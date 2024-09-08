@@ -1,6 +1,6 @@
 ### Hi, I'm @dkargatzis 👋
 
-CTO at [Warestack](https://www.warestack.com/) – driving workflow-oriented products with a focus on Observability.
+CTO at [Warestack](https://www.warestack.com/) – driving workflow-oriented features with a focus on Observability.
 
 #### 🚀 Current Focus Areas:
 

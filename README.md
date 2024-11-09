@@ -4,10 +4,11 @@ CTO at [Warestack](https://www.warestack.com/) – driving workflow-oriented fea
 
 #### 🚀 Current Focus Areas:
 
-- Kubernetes & Cloud-Native technologies
-- Observability – enhancing system reliability with deep insights
-- DevOps & Infrastructure Automation
-- Scalability & System Reliability
+- Kubernetes & Cloud-Native Technologies – Enabling resilient and scalable systems
+- Dev Workflows – Streamlining CI/CD and automating development processes
+- Observability – Enhancing system reliability with deep insights
+- Infrastructure Automation – Improving efficiency and reliability across platforms
+- Scalability & System Reliability – Designing for high-availability architectures
 
 #### 💬 Ask me about
 

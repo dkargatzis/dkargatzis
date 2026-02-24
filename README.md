@@ -23,4 +23,5 @@ CTO at [Warestack](https://www.warestack.com/) – driving workflow-oriented fea
 
 - Email  [dimitris.kargatzis@waresatck.com](mailto:dimitris.kargatzis@warestack.com?subject=[GitHub]%20Source%20Han%20Sans)
 - [LinkedIn Profile](https://www.linkedin.com/in/dimitris-kargatzis/)
+- [X Profile](https://x.com/dkargatzis)
 - [Medium Profile](https://medium.com/@dimitris.kargatzis)
